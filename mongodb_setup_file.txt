@@ -1,0 +1,31 @@
+Start Mongodb Setup :
+
+
+Url :
+
+https://www.mongodb.com/cloud/atlas/register
+
+create register :
+
+first last name : dev Orion
+company name : dev orion haus
+email : dev@orionhaus.com
+pass : E2logy@1234
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Verify email etc :
+
+send create email verification email :
+
+
+UserName password :
+
+username : dev
+
+pass:  aD7cGOMlSMdIDQLi
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+create collection & database :
